@@ -1,0 +1,251 @@
+genre,length,rating,score,title,vote,year
+"Crime,Drama",142 min,R,9.3,The Shawshank Redemption,"1,925,846",1994
+Drama,133 min,R,8.7,One Flew Over the Cuckoo's Nest,"767,744",1975
+"Adventure,Drama,Fantasy",178 min,PG-13,8.8,The Lord of the Rings: The Fellowship of the Ring,"1,394,281",2001
+"Drama,Romance",142 min,PG-13,8.8,Forrest Gump,"1,456,875",1994
+"Biography,Crime,Drama",146 min,R,8.7,Goodfellas,"829,939",1990
+"Adventure,Drama,Fantasy",179 min,PG-13,8.7,The Lord of the Rings: The Two Towers,"1,244,491",2002
+"Action,Adventure,Sci-Fi",148 min,PG-13,8.8,Inception,"1,684,599",2010
+"Action,Adventure,Fantasy",124 min,PG,8.8,Star Wars: Episode V - The Empire Strikes Back,"968,123",1980
+Drama,139 min,R,8.8,Fight Club,"1,542,088",1999
+"Biography,Drama,History",195 min,R,8.9,Schindler's List,"991,892",1993
+Western,178 min,R,8.9,"The Good, the Bad and the Ugly","570,388",1966
+"Crime,Drama",154 min,R,8.9,Pulp Fiction,"1,504,488",1994
+"Adventure,Drama,Fantasy",201 min,PG-13,8.9,The Lord of the Rings: The Return of the King,"1,374,721",2003
+"Action,Crime,Thriller",152 min,PG-13,9,The Dark Knight,"1,897,089",2008
+"Crime,Drama",96 min,APPROVED,8.9,12 Angry Men,"532,352",1957
+"Crime,Drama",202 min,R,9,The Godfather: Part II,"909,526",1974
+Drama,189 min,NOT RATED,8.3,Swades,"68,550",2004
+"Biography,Crime,Drama",125 min,R,8,Dog Day Afternoon,"205,407",1975
+"Drama,Romance",80 min,R,8.1,Before Sunset,"188,509",2004
+"Animation,Adventure,Family",125 min,PG,8.1,Castle in the Sky,"114,721",1986
+"Action,Adventure,Fantasy",143 min,PG-13,8,Pirates of the Caribbean: The Curse of the Black Pearl,"907,423",2003
+"Action,Crime,Drama",321 min,,8.3,Gangs of Wasseypur,"59,260",2012
+"Animation,Family,Fantasy",84 min,G,8,Beauty and the Beast,"359,766",1991
+"Mystery,Sci-Fi,Thriller",129 min,R,8,Twelve Monkeys,"514,289",1995
+"Drama,Romance,War",170 min,NOT RATED,8.1,The Best Years of Our Lives,"47,197",1946
+"Crime,Drama,Mystery",101 min,R,8.1,Infernal Affairs,"104,360",2002
+"Drama,Romance",98 min,PG,8.1,In the Mood for Love,"92,571",2000
+"Drama,War",121 min,NOT RATED,8.1,The Battle of Algiers,"43,873",1966
+Drama,145 min,R,8.1,"Paris, Texas","62,802",1984
+Drama,146 min,PG-13,8.1,The Help,"363,814",2011
+"Comedy,Drama",128 min,PG,8.1,Dead Poets Society,"323,090",1989
+"Adventure,Drama,Thriller",124 min,PG,8,Jaws,"471,118",1975
+"Action,Mystery,Thriller",115 min,PG-13,8,The Bourne Ultimatum,"551,766",2007
+"Comedy,Romance",93 min,PG,8,Annie Hall,"222,177",1977
+Drama,138 min,NOT RATED,8.1,8½,"90,709",1963
+"Adventure,Family,Fantasy",102 min,PG,8.1,The Wizard of Oz,"327,470",1939
+"Crime,Drama",98 min,NOT RATED,8.1,La Haine,"120,621",1995
+"Action,Sci-Fi",107 min,R,8,The Terminator,"677,437",1984
+"Biography,Drama,History",191 min,PG,8.1,Gandhi,"193,787",1982
+"Crime,Drama,Film-Noir",95 min,PG-13,8.1,Touch of Evil,"83,046",1958
+"Comedy,Fantasy,Romance",101 min,PG,8,Groundhog Day,"502,301",1993
+"Drama,Sci-Fi,Thriller",113 min,R,8.1,Donnie Darko,"655,185",2001
+"Comedy,Crime,Drama",102 min,PG,8.1,Paper Moon,"30,552",1973
+"Adventure,Drama,History",185 min,PG,8.1,Barry Lyndon,"118,298",1975
+"Crime,Drama,Horror",117 min,NOT RATED,8.1,Diabolique,"49,861",1955
+"Animation,Adventure,Comedy",92 min,G,8.1,"Monsters, Inc.","675,701",2001
+"Drama,Sport",120 min,PG,8.1,Rocky,"434,154",1976
+"Drama,History",129 min,PASSED,8.1,The Grapes of Wrath,"72,949",1940
+"Biography,Crime,Drama",141 min,PG-13,8.1,Catch Me If You Can,"642,194",2002
+"Adventure,Drama,Fantasy",130 min,PG-13,8.1,Harry Potter and the Deathly Hallows: Part 2,"632,787",2011
+"Adventure,Family,Fantasy",98 min,PG,8.1,The Princess Bride,"331,691",1987
+"Film-Noir,Mystery",100 min,NOT RATED,8.1,The Maltese Falcon,"128,878",1941
+"Crime,Drama,Mystery",153 min,R,8.1,Prisoners,"473,753",2013
+Drama,110 min,NOT RATED,8.2,The Nights of Cabiria,"32,786",1957
+"Drama,Family",93 min,G,8.1,Hachi: A Dog's Tale,"198,087",2009
+"Biography,Crime,Drama",110 min,PG,8.1,Butch Cassidy and the Sundance Kid,"172,498",1969
+"Animation,Adventure,Fantasy",117 min,PG,8.1,Nausicaä of the Valley of the Wind,"114,680",1984
+"Action,Drama,Sci-Fi",137 min,R,8.1,Logan,"459,727",2017
+"Comedy,Drama,Music",128 min,PG-13,8.1,La La Land,"357,266",2016
+"Drama,Romance",101 min,R,8.1,Before Sunrise,"216,270",1995
+"Crime,Drama,Mystery",104 min,NOT RATED,8.2,A Wednesday,"59,159",2008
+"Drama,Thriller",154 min,R,8.1,Amores Perros,"193,897",2000
+"Crime,Drama,History",128 min,R,8.1,Spotlight,"313,389",2015
+"Comedy,Drama,Sci-Fi",103 min,PG,8.1,The Truman Show,"768,371",1998
+"Action,Adventure,Sci-Fi",120 min,R,8.1,Mad Max: Fury Road,"697,614",2015
+"Biography,Drama,History",134 min,R,8.1,12 Years a Slave,"526,844",2013
+"Crime,Drama",99 min,NOT RATED,8.1,The 400 Blows,"82,462",1959
+"Adventure,Sci-Fi,Thriller",127 min,PG-13,8.1,Jurassic Park,"711,031",1993
+"Drama,Sport",132 min,PG-13,8.1,Million Dollar Baby,"546,461",2004
+"Action,Crime,Drama",132 min,NOT RATED,8.1,Memories of Murder,"86,048",2003
+"Drama,Thriller",83 min,NOT RATED,8.1,Persona,"75,343",1966
+"Drama,Sci-Fi",162 min,NOT RATED,8.1,Stalker,"84,387",1979
+"Adventure,Drama,History",212 min,G,8.1,Ben-Hur,"185,091",1959
+"Adventure,Drama",89 min,R,8.1,Stand by Me,"309,876",1986
+"Action,Biography,Drama",123 min,R,8.1,Rush,"363,408",2013
+Drama,121 min,R,8.1,Network,"119,569",1976
+"Biography,Drama,History",121 min,PG-13,8.1,Hotel Rwanda,"294,930",2004
+"Biography,Drama,History",114 min,NOT RATED,8.2,The Passion of Joan of Arc,"33,374",1928
+"Adventure,Drama,Thriller",131 min,NOT RATED,8.2,The Wages of Fear,"42,255",1953
+"Comedy,Romance",105 min,NOT RATED,8.1,It Happened One Night,"75,999",1934
+"Biography,Drama",133 min,R,8.1,In the Name of the Father,"128,972",1993
+"Drama,War",120 min,R,8.1,Platoon,"327,517",1986
+"Adventure,Comedy,Drama",99 min,R,8.1,The Grand Budapest Hotel,"575,900",2014
+"Comedy,Drama,Thriller",122 min,R,8.1,Wild Tales,"128,491",2014
+Comedy,94 min,R,8.1,Life of Brian,"306,114",1979
+"Adventure,Biography,Drama",148 min,R,8.1,Into the Wild,"488,623",2007
+"Animation,Comedy,Drama",92 min,NOT RATED,8.1,Mary and Max,"138,504",2009
+"Crime,Drama,Mystery",149 min,R,8.1,Gone Girl,"690,253",2014
+"Comedy,Drama",157 min,NOT RATED,8.3,Rang De Basanti,"89,122",2006
+"Mystery,Thriller",138 min,R,8.1,Shutter Island,"918,115",2010
+"Animation,Action,Adventure",98 min,PG,8.1,How to Train Your Dragon,"557,365",2010
+"Biography,Drama,History",205 min,NOT RATED,8.3,Andrei Rublev,"31,337",1966
+"Biography,Drama,History",139 min,R,8.2,Hacksaw Ridge,"305,332",2016
+Drama,136 min,NOT RATED,8.2,Tokyo Story,"35,728",1953
+"Crime,Drama,Thriller",128 min,,8.4,The Bandit,"47,429",1996
+"Drama,Mystery,Romance",130 min,NOT RATED,8.2,Rebecca,"100,674",1940
+"Crime,Drama",126 min,GP,8.2,Cool Hand Luke,"135,649",1967
+"Action,Crime,Thriller",111 min,R,8.1,Kill Bill: Vol. 1,"834,686",2003
+"Drama,Romance",94 min,NOT RATED,8.2,Sunrise,"36,735",1927
+"Drama,War",142 min,NOT RATED,8.2,Come and See,"35,367",1985
+"Drama,Mystery,Sci-Fi",164 min,R,8.2,Blade Runner 2049,"262,173",2017
+Drama,158 min,R,8.1,There Will Be Blood,"428,284",2007
+"Comedy,Crime",117 min,R,8.2,The Big Lebowski,"612,457",1998
+"Drama,War",183 min,R,8.2,The Deer Hunter,"263,346",1978
+"Animation,Adventure,Comedy",100 min,G,8.1,Finding Nemo,"798,370",2003
+"Horror,Mystery,Sci-Fi",109 min,R,8.1,The Thing,"300,932",1982
+"Crime,Drama,Thriller",98 min,R,8.1,Fargo,"519,210",1996
+"Drama,Mystery,Thriller",107 min,PG-13,8.1,The Sixth Sense,"788,752",1999
+"Crime,Drama,Thriller",122 min,R,8.1,No Country for Old Men,"704,018",2007
+Drama,116 min,R,8.2,Gran Torino,"627,993",2008
+"Drama,History,Romance",238 min,G,8.2,Gone with the Wind,"243,948",1939
+Drama,94 min,R,8.2,Trainspotting,"549,019",1996
+"Crime,Film-Noir,Thriller",105 min,PG,8.2,Dial M for Murder,"125,971",1954
+"Drama,Sport",140 min,PG-13,8.2,Warrior,"376,679",2011
+"Action,Adventure,Comedy",67 min,NOT RATED,8.2,The General,"63,119",1926
+"Action,Drama,Sci-Fi",132 min,R,8.2,V for Vendetta,"892,791",2005
+"Sci-Fi,Thriller",117 min,R,8.2,Blade Runner,"572,617",1982
+"Biography,Comedy,Crime",180 min,R,8.2,The Wolf of Wall Street,"934,165",2013
+"Biography,Drama",124 min,PG,8.2,The Elephant Man,"184,956",1980
+"Drama,Romance",91 min,NOT RATED,8.2,Wild Strawberries,"73,989",1957
+"Comedy,Drama",129 min,NOT RATED,8.2,Mr. Smith Goes to Washington,"88,496",1939
+"Crime,Drama",178 min,R,8.2,Casino,"380,771",1995
+Drama,118 min,R,8.2,Room,"264,896",2015
+"Biography,Drama",135 min,PG-13,8.2,A Beautiful Mind,"708,130",2001
+"Comedy,Crime",107 min,R,8.2,"Lock, Stock and Two Smoking Barrels","463,213",1998
+"Drama,Fantasy",96 min,NOT RATED,8.2,The Seventh Seal,"129,183",1957
+"Animation,Adventure,Comedy",95 min,PG,8.2,Inside Out,"468,439",2015
+"Animation,Adventure,Family",119 min,PG,8.2,Howl's Moving Castle,"254,030",2004
+"Adventure,Comedy,Drama",95 min,NOT RATED,8.2,The Gold Rush,"79,889",1925
+"Crime,Drama,Thriller",108 min,NOT RATED,8.2,On the Waterfront,"116,472",1954
+"Drama,Mystery,Romance",129 min,R,8.2,The Secret in Their Eyes,"156,681",2009
+"Adventure,Drama,War",161 min,PG,8.2,The Bridge on the River Kwai,"170,661",1957
+"Animation,Family,Fantasy",86 min,G,8.2,My Neighbor Totoro,"210,771",1988
+"Action,Drama",162 min,R,8.2,Ran,"89,514",1985
+"Drama,Mystery,War",131 min,R,8.2,Incendies,"106,067",2010
+"Drama,Fantasy,War",118 min,R,8.2,Pan's Labyrinth,"531,405",2006
+"Drama,Mystery,Thriller",130 min,R,8.2,Chinatown,"245,603",1974
+"Drama,War",186 min,NOT RATED,8.3,Judgment at Nuremberg,"54,013",1961
+"Drama,Family",89 min,PG,8.3,Children of Heaven,"41,773",1997
+"Film-Noir,Mystery,Thriller",93 min,NOT RATED,8.2,The Third Man,"130,678",1949
+Drama,143 min,NOT RATED,8.3,Ikiru,"50,662",1952
+"Adventure,Drama,History",172 min,APPROVED,8.2,The Great Escape,"188,549",1963
+"Biography,Drama,Sport",129 min,R,8.2,Raging Bull,"265,465",1980
+"Crime,Drama,Thriller",170 min,R,8.2,Heat,"485,303",1995
+"Action,Thriller",132 min,R,8.2,Die Hard,"668,630",1988
+"Adventure,Drama,Western",126 min,NOT RATED,8.3,The Treasure of the Sierra Madre,"91,636",1948
+"Biography,Drama,History",156 min,R,8.2,Downfall,"282,375",2004
+"Crime,Drama",115 min,R,8.3,"Three Billboards Outside Ebbing, Missouri","177,288",2017
+Drama,108 min,,8.5,My Father and My Son,"55,125",2005
+"Drama,Western",130 min,R,8.2,Unforgiven,"314,714",1992
+"Comedy,Romance",121 min,NOT RATED,8.3,Some Like It Hot,"200,821",1959
+"Action,Adventure,Thriller",140 min,PG-13,8.3,Batman Begins,"1,108,430",2005
+Drama,138 min,NOT RATED,8.3,All About Eve,"96,712",1950
+"Animation,Adventure,Comedy",96 min,PG,8.3,Up,"771,245",2009
+"Crime,Drama,Mystery",88 min,NOT RATED,8.3,Rashomon,"119,858",1950
+"Action,Adventure,Fantasy",127 min,PG-13,8.3,Indiana Jones and the Last Crusade,"585,224",1989
+"Drama,Sci-Fi",153 min,NOT RATED,8.3,Metropolis,"129,723",1927
+"Drama,Mystery",123 min,PG-13,8.4,A Separation,"177,427",2011
+"Action,Drama,Thriller",110 min,NOT RATED,8.3,Yojimbo,"86,216",1961
+"Comedy,Drama,Romance",125 min,NOT RATED,8.3,The Apartment,"128,117",1960
+"Crime,Drama,Mystery",138 min,R,8.3,L.A. Confidential,"461,278",1997
+"Crime,Drama",170 min,R,8.3,Scarface,"611,633",1983
+"Adventure,Comedy,Fantasy",91 min,PG,8.3,Monty Python and the Holy Grail,"426,883",1975
+Drama,126 min,R,8.3,Good Will Hunting,"702,456",1997
+Drama,115 min,R,8.3,The Hunt,"212,952",2012
+"Comedy,Crime",102 min,R,8.3,Snatch,"673,624",2000
+Western,132 min,R,8.3,For a Few Dollars More,"184,602",1965
+"Animation,Adventure,Comedy",103 min,G,8.3,Toy Story 3,"624,771",2010
+"Comedy,Drama,Family",68 min,NOT RATED,8.3,The Kid,"83,942",1921
+"Adventure,Drama,War",153 min,R,8.3,Inglourious Basterds,"1,025,598",2009
+"Comedy,Crime,Drama",129 min,PG,8.3,The Sting,"200,715",1973
+"Animation,Adventure,Comedy",81 min,G,8.3,Toy Story,"720,585",1995
+"Comedy,Drama",170 min,PG-13,8.4,3 Idiots,"264,833",2009
+"Drama,War",116 min,R,8.3,Full Metal Jacket,"557,523",1987
+"Comedy,Musical,Romance",103 min,G,8.3,Singin' in the Rain,"177,631",1952
+"Crime,Drama",129 min,NOT RATED,8.3,To Kill a Mockingbird,"249,240",1962
+Drama,89 min,NOT RATED,8.3,Bicycle Thieves,"112,294",1948
+"Adventure,Sci-Fi",149 min,G,8.3,2001: A Space Odyssey,"492,308",1968
+"Crime,Drama",114 min,R,8.3,Taxi Driver,"583,129",1976
+"Crime,Drama,Film-Noir",107 min,NOT RATED,8.3,Double Indemnity,"113,955",1944
+"Drama,Romance,Sci-Fi",108 min,R,8.3,Eternal Sunshine of the Spotless Mind,"760,876",2004
+"Adventure,Biography,Drama",216 min,PG,8.3,Lawrence of Arabia,"220,795",1962
+"Comedy,Romance",122 min,R,8.3,Amélie,"606,309",2001
+"Crime,Drama,Sci-Fi",136 min,R,8.3,A Clockwork Orange,"635,662",1971
+"Drama,Family",165 min,PG,8.5,Like Stars on Earth,"118,624",2007
+Drama,102 min,R,8.3,Requiem for a Dream,"651,811",2000
+"Crime,Drama,Mystery",99 min,NOT RATED,8.4,M,"114,940",1931
+"Animation,Drama,Fantasy",106 min,PG,8.5,Your Name,"82,773",2016
+"Action,Biography,Drama",161 min,NOT RATED,8.6,Dangal,"87,617",2016
+"Biography,Drama,History",160 min,R,8.3,Amadeus,"310,091",1984
+"Action,Adventure,Fantasy",131 min,PG,8.3,Star Wars: Episode VI - Return of the Jedi,"795,669",1983
+"Crime,Drama,Thriller",99 min,R,8.3,Reservoir Dogs,"760,138",1992
+"Biography,Drama,History",178 min,R,8.4,Braveheart,"833,130",1995
+"Mystery,Romance,Thriller",128 min,PG,8.4,Vertigo,"290,115",1958
+"Drama,Mystery",119 min,PG,8.4,Citizen Kane,"335,827",1941
+"Action,Adventure,Sci-Fi",137 min,R,8.4,Aliens,"557,757",1986
+"Mystery,Thriller",120 min,R,8.4,Oldboy,"417,269",2003
+"Crime,Drama",229 min,R,8.4,Once Upon a Time in America,"253,155",1984
+Drama,122 min,R,8.4,American Beauty,"927,179",1999
+"Action,Thriller",164 min,PG-13,8.4,The Dark Knight Rises,"1,290,081",2012
+"Crime,Drama,Mystery",116 min,NOT RATED,8.4,Witness for the Prosecution,"78,796",1957
+"Adventure,Mystery,Thriller",136 min,NOT RATED,8.4,North by Northwest,"248,783",1959
+"Adventure,Drama,Thriller",149 min,R,8.4,Das Boot,"191,764",1981
+"Animation,Adventure,Fantasy",134 min,PG-13,8.4,Princess Mononoke,"264,373",1997
+"Drama,Western",165 min,R,8.4,Django Unchained,"1,110,182",2012
+"Animation,Drama,War",89 min,NOT RATED,8.5,Grave of the Fireflies,"170,144",1988
+"Drama,Horror",146 min,R,8.4,The Shining,"706,704",1980
+"Drama,Thriller",137 min,R,8.5,The Lives of Others,"296,579",2006
+"Drama,War",88 min,NOT RATED,8.4,Paths of Glory,"140,529",1957
+"Comedy,War",95 min,PG,8.5,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"386,046",1964
+"Animation,Adventure,Family",98 min,G,8.4,WALL·E,"829,647",2008
+"Drama,Film-Noir",110 min,NOT RATED,8.5,Sunset Boulevard,"161,735",1950
+"Animation,Adventure,Comedy",105 min,PG,8.5,Coco,"128,821",2017
+Drama,155 min,R,8.5,Cinema Paradiso,"179,987",1988
+"Comedy,Drama,War",125 min,G,8.5,The Great Dictator,"162,596",1940
+"Horror,Sci-Fi",116 min,R,8.5,Alien,"656,697",1979
+"Drama,Mystery,Sci-Fi",130 min,PG-13,8.5,The Prestige,"978,831",2006
+"Mystery,Thriller",113 min,R,8.5,Memento,"959,502",2000
+"Animation,Adventure,Drama",88 min,G,8.5,The Lion King,"752,842",1994
+"Drama,War",147 min,R,8.5,Apocalypse Now,"506,746",1979
+"Drama,Music",107 min,R,8.5,Whiplash,"536,400",2014
+"Action,Adventure,Drama",155 min,R,8.5,Gladiator,"1,116,010",2000
+"Action,Adventure",115 min,PG,8.5,Raiders of the Lost Ark,"747,003",1981
+"Crime,Drama,Thriller",151 min,R,8.5,The Departed,"992,836",2006
+"Biography,Drama,Music",150 min,R,8.5,The Pianist,"581,147",2002
+"Action,Sci-Fi",137 min,R,8.5,Terminator 2,"839,073",1991
+"Adventure,Comedy,Sci-Fi",116 min,PG,8.5,Back to the Future,"848,131",1985
+"Mystery,Thriller",112 min,PG,8.5,Rear Window,"363,148",1954
+"Comedy,Drama,Family",87 min,G,8.5,Modern Times,"170,042",1936
+"Biography,Comedy,Drama",112 min,R,8.6,The Intouchables,"606,705",2011
+"Drama,Romance,War",102 min,PG,8.5,Casablanca,"438,705",1942
+"Comedy,Drama,Romance",87 min,G,8.6,City Lights,"129,817",1931
+Western,164 min,PG-13,8.5,Once Upon a Time in the West,"248,541",1968
+"Horror,Mystery,Thriller",109 min,R,8.5,Psycho,"486,899",1960
+"Crime,Drama",119 min,R,8.5,American History X,"884,630",1998
+"Adventure,Drama,Sci-Fi",169 min,PG-13,8.6,Interstellar,"1,151,865",2014
+"Drama,War",169 min,R,8.6,Saving Private Ryan,"1,014,202",1998
+"Crime,Drama,Fantasy",189 min,R,8.5,The Green Mile,"915,284",1999
+"Animation,Adventure,Family",125 min,PG,8.6,Spirited Away,"498,561",2001
+"Crime,Drama,Thriller",110 min,R,8.6,Léon: The Professional,"839,198",1994
+"Crime,Mystery,Thriller",106 min,R,8.6,The Usual Suspects,"840,033",1995
+"Crime,Drama,Thriller",118 min,R,8.6,The Silence of the Lambs,"1,027,773",1991
+"Crime,Drama,Mystery",127 min,R,8.6,Se7en,"1,174,172",1995
+"Crime,Drama",130 min,R,8.6,City of God,"598,427",2002
+"Adventure,Drama",207 min,NOT RATED,8.7,Seven Samurai,"259,751",1954
+"Drama,Family,Fantasy",130 min,PG,8.6,It's a Wonderful Life,"322,879",1946
+"Action,Adventure,Fantasy",121 min,PG,8.6,Star Wars: Episode IV - A New Hope,"1,040,261",1977
+"Comedy,Drama,War",116 min,PG-13,8.6,Life Is Beautiful,"497,621",1997
+"Action,Sci-Fi",136 min,R,8.7,The Matrix,"1,383,410",1999
+"Crime,Drama",175 min,R,9.2,The Godfather,"1,316,813",1972
